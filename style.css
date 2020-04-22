@@ -1,0 +1,16 @@
+div {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, p {
+  font-family: 'Abril Fatface', cursive;
+}
+
+ul {
+  list-style-type: square;
+}
+
+/* .achievements {
+  font-family: 'Merriweather', serif;
+}
+*/
